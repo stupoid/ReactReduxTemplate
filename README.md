@@ -6,5 +6,5 @@ Simple starter for React Redux Apps
 > git clone https://github.com/stupoid/ReactReduxTemplate.git
 > cd ReactReduxTemplate
 > npm install
-> npm start
+> npm run dev
 ```
